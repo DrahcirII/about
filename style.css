@@ -1,0 +1,170 @@
+
+a:link {
+  color: red;
+  cursor: url('http://i59.tinypic.com/2poth94.gif'), default;
+}
+a:visited {color: darkred;}
+a:hover {color: black;}
+
+body {
+  background-image: url('http://oi59.tinypic.com/bgxqhw.jpg;');
+      background-position: center;
+      background-attachment: scroll;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+  cursor: url('http://i62.tinypic.com/maxe6e.gif'), default;
+}
+
+
+.logo {float: left;
+       width: 88px;
+       height: 88px;
+       margin-right: 10px;
+       margin-left: 10px;
+       border-radius: 10px;
+}
+.header {border-radius: 10px; background-color: rgb(51,51,51);
+    text-align: left;
+    margin: left;
+    width: 98.5%;
+    font-family:"Courier New", courier;
+    color: white;
+    border-style: double;
+     position: fixed;
+     top: 0px;
+
+
+
+}
+
+
+.content {border-radius: 10px; background-color: rgba(51,51,51,0.5);
+    text-align: left;
+    margin: left;
+    margin-top: 100px;
+    padding: 10px;
+    width: 50%;
+    font-family:"Courier New", courier;
+    color: white;
+    border-style: double;
+     float: left;
+   clear:none;
+}
+
+
+.speedart { border-radius: 10px; background-color: rgba(51,51,51,0.5);
+    clear: both;
+    float: left;
+    padding: 20px;
+    color: white;
+    border: double;
+    font-family:"Courier New", courier;
+    margin-top: 20px;
+}
+
+.journey {border-radius: 10px; background-color: rgba(51,51,51,0.5);
+    text-align: left;
+    margin: left;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+    width: 50%;
+    font-family:"Courier New", courier;
+    color: white;
+    border-style: double;
+    float: left;
+    clear:left;
+
+
+}
+
+
+.content2 { border-radius: 10px; background-color: rgba(51,51,51,0.5);
+    text-align: left;
+    margin-top: 100px;
+    padding: 10px;
+    width: 22%;
+    font-family:"Courier New", courier;
+    color: white;
+    border-style: double;
+     float: left;
+   clear: right;
+    margin-left: 25px;
+    height: 100%;
+
+
+
+}
+
+.drahc {
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 370px;
+    border-style: ridge;
+}
+
+.style {
+    color: red;
+    font-size: 50%;
+    font-style: italic;
+
+}
+
+.under { color: red;
+       font-style: italic;
+}
+
+.sidebar {
+    float: right;
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    color: white;
+    background-color: rgb(51,51,51);
+    font-family:"Courier New", courier;
+    border-radius: 5px;
+    border-style: double;
+    padding: 10px;
+    width: 200px;
+    height:700px;
+
+
+}
+
+.backpic {width: 100%;
+         border-radius: 200px;
+}
+
+.footer {clear: left;
+         color: white;
+         top: 50px;
+         background-color: rgba(51,51,51,0.5);
+         border: double;
+         border-radius: 10px;
+         font-family:"Courier New", courier;
+
+
+}
+
+.drhc {
+        font-size: 50%;
+        color: white;
+}
+
+
+ul.left {
+		text-align: left;
+	margin:0 auto;
+
+    width: 94%;}
+
+ol.left {
+		text-align: left;
+	margin:0 auto;
+
+    width: 94%;}
+
+
+
+
